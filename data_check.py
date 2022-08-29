@@ -17,7 +17,7 @@ https://github.com/luoyily/MoeTTS
 3. 运行
 """
 # Config：
-filelists = './filelists/multi_speaker.csv'
+filelists = './filelists/train_filelist.txt'
 # is_relative = True
 is_single_speaker = False
 
